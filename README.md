@@ -1,4 +1,4 @@
-# 📊 Pragmatic Academy – Student Performance Dashboard (Power BI)
+# Student Performance Dashboard (Power BI)
 
 An interactive **Power BI dashboard** project designed to analyze student academic performance across various U.S. states and school districts. The visualization provides actionable insights into **reading and math score trends**, **state-level performance**, and the **impact of extracurricular activities** on academic outcomes.
 
